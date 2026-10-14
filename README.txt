@@ -3,8 +3,11 @@ README.txt
 
 1. ABOUT THIS SOFTWARE
 ----------------------
-This software is free and open to the public and may be used without 
-restriction.
+The software is provided for research and evaluation purposes only. Users are
+permitted to execute the software for non-commercial research purposes. 
+Redistribution, modification, decompilation, reverse engineering, or extraction 
+of the underlying source code is not permitted, except where such restrictions 
+are prohibited by applicable law.
 
 
 2. DISCLAIMER OF LIABILITY
